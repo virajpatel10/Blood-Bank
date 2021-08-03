@@ -1,0 +1,28 @@
+name : abc
+age : 15
+phone : 987
+weight : 50
+BloodGroup : O+
+ML donate : 190
+
+name : pqr
+age : 20
+phone : 9
+weight : 90
+BloodGroup : O-
+ML donate : 90
+
+name : q
+age : 20
+phone : 7
+weight : 80
+BloodGroup : O-
+ML donate : 10
+
+name : xyz
+age : 20
+phone : 9876
+weight : 5
+BloodGroup : O+
+ML donate : 10
+

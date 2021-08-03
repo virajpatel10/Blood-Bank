@@ -1,0 +1,51 @@
+name : xyz
+age : 25
+phone : 987
+weight : 50
+BloodGroup : A+
+ML donate : 60
+Organ : Don't Want To Donatename : abc
+age : 20
+phone : 9
+weight : 89
+BloodGroup : B+
+ML donate : 10
+Organ : heart
+name : xyz
+age : 30
+phone : 8
+weight : 78
+BloodGroup : B-
+ML donate : 30
+Organ : Don't Want To Donate
+name : pqr
+age : 35
+phone : 6
+weight : 60
+BloodGroup : O-
+ML donate : 100
+Organ : legs
+name : abc
+age : 20
+phone : 1234567890
+weight : 50
+BloodGroup : O+
+ML donate : 10
+Organ : Don't Want To Donate
+
+name : abc
+age : 19
+phone : 9825117668
+weight : 50
+BloodGroup : O+
+ML donate : 50
+Organ : Don't Want To Donate
+
+name : abc
+age : 20
+phone : 1234567890
+weight : 50
+BloodGroup : A+
+ML donate : 20
+Organ : Don't Want To Donate
+
