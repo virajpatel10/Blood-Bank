@@ -1,4 +1,4 @@
-# bloodbank
+# Blood Bank Management System
  
 ## Project Overview
 
@@ -37,3 +37,10 @@ Add new donor details via the Donor Management system.
 Add recipient requests and check for compatible blood types.
 Track and manage blood inventory, ensuring efficient usage and stock updates.
 Handle exceptions and invalid data with the built-in error management system.
+
+## Installation Instructions
+
+git clone https://github.com/virajpatel10/blood-bank-system.git
+cd blood-bank-system
+mvn clean install
+java -jar target/blood-bank-system.jar
