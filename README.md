@@ -40,7 +40,7 @@ Handle exceptions and invalid data with the built-in error management system.
 
 ## Installation Instructions
 
-### git clone https://github.com/virajpatel10/blood-bank-system.git
-### cd blood-bank-system
-### mvn clean install
-### java -jar target/blood-bank-system.jar
+1. git clone https://github.com/virajpatel10/blood-bank-system.git
+2. cd blood-bank-system
+3. mvn clean install
+4. java -jar target/blood-bank-system.jar
